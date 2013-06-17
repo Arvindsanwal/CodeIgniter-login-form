@@ -6,6 +6,7 @@ class Home extends CI_Controller{
         $this->check_isvalidated();
     }
     
+    
     public function index(){
         // If the user is validated, then this function will run
         echo 'Congratulations, you are logged in.';
