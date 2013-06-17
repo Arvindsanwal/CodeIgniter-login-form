@@ -1,0 +1,164 @@
+<html>
+	<head>
+
+	</head>
+	<body>
+		<div name="enableDivForm" id="enableDivForm">
+  
+  <div id="content1">
+    
+    <nav class="topcontent1 hdr">
+      
+      <h1>
+        My Tata Sky Login
+      </h1>
+      
+    </nav>
+    
+    <div align="left" style="color: red" id="div">
+      
+    </div>
+    
+    <div align="center" style="color: red" id="divP">
+      
+    </div>
+    
+    <div align="center" style="color: red" id="divP">
+      
+    </div>
+    
+    <div class="logincl">
+      
+      <div class="xx">
+        
+        <form action="" name="enableForm" method="post" id="enableFormID">
+          
+          <div class="in-cont-box-l3">
+            
+            <table width="480" align="left" cellspacing="0" cellpadding="0" border="0" class="list">
+              
+              <tbody>
+                
+                <tr>
+                  
+                  <td width="265" class="listgry">
+                    
+                    <div class="FL">
+                      Subscriber ID	
+                    </div>
+                    
+                    <div class="FL ML7" id="toopt">
+                      
+                      <a href="#subscriberid" style="text-decoration:none;" class="font11">
+                        (?)
+                      </a>
+                      
+                    </div>
+                    
+                  </td>
+                  
+                  <td width="215" class="listgry">
+                    
+                    <input type="text" maxlength="10" id="SubscriberID" style="background:#ffffff;border: 1px solid #7F9DB9;height:18px;width: 150px;" name="SubscriberID">
+                    
+                  </td>
+                  
+                </tr>
+                
+                <tr>
+                  
+                  <td colspan="2" style="padding:3px 10px;" class="listwht">
+                    OR
+                  </td>
+                  
+                </tr>
+                
+                <tr>
+                  
+                  <td class="listgry">
+                    Registered Mobile Number (RMN)
+                  </td>
+                  
+                  <td class="listgry">
+                    
+                    <input type="text" maxlength="10" style="background:#ffffff;border: 1px solid #7F9DB9;height:18px;width: 150px;" id="rmn" name="rmn">
+                    
+                  </td>
+                  
+                </tr>
+                
+              </tbody>
+              
+            </table>
+            
+            <div class="clear">
+            </div>
+            
+            <div class="but-bl P10">
+              
+              <input type="submit" onclick="return check(this.form);" value="Login »">
+              
+            </div>
+            
+          </div>
+          
+        </form>
+        
+        <div class="clear">
+        </div>
+        
+        <br>
+        <br>
+        
+        <div class="navigation">
+          
+          <a href="https://www.mytatasky.com/UserRegistration/jsp/html/index.jsf">
+            <b>
+              Register
+            </b>
+          </a>
+          |
+          
+          <a href="https://m.mytatasky.com/mportal/LoginAction.action">
+            <b>
+              Login from mobile
+            </b>
+          </a>
+          
+        </div>
+        
+      </div>
+      
+      <div class="in-cont-box-r3 ">
+        
+        <span>
+          
+          <img title="" alt="" src="/static-files/images/login-intro.gif" class="icon">
+          
+        </span>
+        
+      </div>
+      
+    </div>
+    
+    <div class="clear">
+    </div>
+    
+    <nav class="bottomcontent1">
+      <br>
+      <br>
+    </nav>
+    
+    <div class="clear">
+    </div>
+    
+    <div class="clear">
+    </div>
+    
+    <br>
+    
+  </div>
+  
+</div>
+	</body>
+</html>
